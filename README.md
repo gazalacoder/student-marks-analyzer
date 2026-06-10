@@ -12,3 +12,12 @@ Python Projects by Gazala
 -Grade System
 -Pass/Fail Result 
 Created by Gazala
+## New Projects 
+-Guess Number Game
+-To Do List App 
+## Skills 
+-Python Basics
+-Loops 
+-Lists
+-Functions
+-User Input
