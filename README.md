@@ -21,3 +21,23 @@ Created by Gazala
 -Lists
 -Functions
 -User Input
+## My Python Projects
+### 1. Student Marks Analyzer
+-Calculates total marks
+-Calculates percentage
+-Assign grades
+### 2. Age Calculator
+-Calculates age from DOB
+### 3. Number Guessing Game 
+-Random number game
+### 4. Password Generator
+-Secure password creation
+### 5. To-Do List App
+-Add / Delete tasks
+### 6. Expense Tracker
+-Income & expense management
+## Skills
+-Python
+-Github
+-File handling
+-Problem Solving
