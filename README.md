@@ -41,3 +41,9 @@ Created by Gazala
 -Github
 -File handling
 -Problem Solving
+## CSV Student Manager
+-Add Student Data
+-Save Data in CSV File
+-View Student Records
+-Delete Student Records
+-Menu Based Python Program
