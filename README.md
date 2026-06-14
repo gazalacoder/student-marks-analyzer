@@ -52,4 +52,10 @@ Created by Gazala
 -Analyze student marks
 -Calculate average,highest and lowest marks
 -Create bar graph using Matplotlib
+## PDF Report Generator
+-Create professional PDF reports
+-Display student marks data
+-Show average,highest and lowest marks
+-Generate PDF automatically using ReportLab
+
 
