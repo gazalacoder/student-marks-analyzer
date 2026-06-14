@@ -47,3 +47,9 @@ Created by Gazala
 -View Student Records
 -Delete Student Records
 -Menu Based Python Program
+## CSV Data Analyzer with Graph
+-Read CSV file
+-Analyze student marks
+-Calculate average,highest and lowest marks
+-Create bar graph using Matplotlib
+
