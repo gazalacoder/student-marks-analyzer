@@ -1,61 +1,30 @@
-# Student Marks Calculator
-Python Projects by Gazala
-## Projects
--Calculator
--Square Calculator
--Age Calculator
--Rectangle Area Calculator
--Student Marks Calculator
-## Features
--User Input
--Mathematical Calculations
--Grade System
--Pass/Fail Result 
-Created by Gazala
-## New Projects 
--Guess Number Game
--To Do List App 
-## Skills 
--Python Basics
--Loops 
--Lists
--Functions
--User Input
 ## My Python Projects
-### 1. Student Marks Analyzer
--Calculates total marks
--Calculates percentage
--Assign grades
-### 2. Age Calculator
--Calculates age from DOB
-### 3. Number Guessing Game 
--Random number game
-### 4. Password Generator
--Secure password creation
-### 5. To-Do List App
--Add / Delete tasks
-### 6. Expense Tracker
--Income & expense management
-## Skills
--Python
--Github
--File handling
--Problem Solving
-## CSV Student Manager
--Add Student Data
--Save Data in CSV File
--View Student Records
--Delete Student Records
--Menu Based Python Program
-## CSV Data Analyzer with Graph
--Read CSV file
--Analyze student marks
--Calculate average,highest and lowest marks
--Create bar graph using Matplotlib
-## PDF Report Generator
--Create professional PDF reports
--Display student marks data
--Show average,highest and lowest marks
--Generate PDF automatically using ReportLab
+### 1.Expense Tracker GUI
+-Add daily expenses
+-Manage categories
+-Calculate total expense automatically
+### 2.Invoice Billing System GUI
+-Generate customer bills
+-Calculate total amount
+-Simple GUI design
+### 3.GUI Calculator
+-Addition, subtraction, multiplication and division
+-Easy to use interface
+### 4.CSV Data Analyzer with Graph
+-Analyze CSV data
+-Create graphs using Matplotlib
+### 5.PDF Report Generator
+-Generate PDF reports automatically
+### 6.Student Marks Calculator
+-Calculate total marks
+-Calculate percentage and grade
+### 7.CSV Student Manager
+-Add, view and delete student records
+### 8.Password Generator
+-Generate secure passwords
+### 9.Number Guessing Game
+-Random number guessing game
+### 10. To-Do List App
+-Add and delete tasks
 
 
